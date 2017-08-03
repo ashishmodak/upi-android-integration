@@ -25,3 +25,4 @@ Demo project for UPI (Unified Payment Interface) with android
 4. https://medium.com/@thinksantosh/upi-deep-linking-specification-app-developers-mustnt-expect-consistency-of-implementation-across-90b919e077cb
 5. http://www.npci.org.in/documents/UPI-Linking-Specs-ver-1.1_draft.pdf
 6. https://stackoverflow.com/questions/tagged/upi
+7. http://www.profitbooks.net/upi-unified-payment-interface/
