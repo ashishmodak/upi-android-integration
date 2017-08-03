@@ -1,8 +1,17 @@
 # upi-android-integration
 Demo project for UPI (Unified Payment Interface) with android
 
+## UPI apps provided by banks
 
-UPI Good Reads
+| Apps |  Successful transaction happened? |  Callback received? |
+| :---: | :---: | :---: |
+| Axis Bank  | YES | Not tested |
+| HDFC Bank  | NO | Not tested |
+| BHIM  | YES | Not tested |
+| Canra Bank (eMPower)  | NO | Not tested |
+
+
+## UPI Good Reads
 1. http://www.nitinbhatia.in/personal-finance/upi-important-points/
 2. https://upipayments.co.in/best-upi-apps/
 3. https://blog.deazzle.in/enable-upi-payments-in-your-app-without-the-need-to-integrate-with-a-bank-c911019f3b2d
